@@ -19,7 +19,7 @@
 If you're interested in my background, experience, and skills in more detail, feel free to download my CV for a detailed overview.
 
 <p align="center">
-  <a href="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/assets/ShovanBhattacharjee_CV.pdf" download>
+  <a href="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/raw/main/assets/ShovanBhattacharjee_CV.pdf" download>
     <img src="https://img.shields.io/badge/View%20CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </p>
