@@ -59,6 +59,7 @@ Currently, I’m enhancing my skills with **Next.js** for server-side rendering 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Team-Bro-buggers-C211010&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Team-Bro-buggers-C211010&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Team-Bro-buggers-C211010&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
