@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" style="object-fit: cover;" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/github-banner.jpg?raw=true" alt="Shovan Bhattacharjee GitHub Banner" />
+  <img height="250" style="object-fit: cover;" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/github-banner.jpg?raw=true" alt="Shovan Bhattacharjee GitHub Banner" />
 </div>
 
 <h1 align="center">Hi, I'm Shovan Bhattacharjee — Web Developer</h1>
@@ -9,7 +9,7 @@
 </p>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Team-Bro-buggers-C211010&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=shovan-bhattacharjee&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 ---
@@ -19,7 +19,7 @@
 If you're interested in my background, experience, and skills in more detail, feel free to download my CV for a detailed overview.
 
 <p align="center">
-  <a href="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/raw/main/assets/ShovanBhattacharjee_CV.pdf" download>
+  <a href="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/raw/main/assets/ShovanBhattacharjee_CV.pdf" download>
     <img src="https://img.shields.io/badge/View%20CV-Download-green?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download CV" />
   </a>
 </p>
@@ -38,18 +38,18 @@ Currently, I’m enhancing my skills with **Next.js** for server-side rendering 
 
 <div align="center" style="display: flex; flex-direction: column; align-items: center; gap: 20px;">
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin-top: 10px;">
-    <img title="HTML5" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/HTML.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="CSS3" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/css.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="JavaScript" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/JavaScript.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="React.js" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/react.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="Tailwind CSS" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/tailwind.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="Redux Toolkit" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/redux.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="Node.js" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/node.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="Express.js" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/express.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="MongoDB" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/mongo.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="Firebase" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/firebase.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="C Language" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/c.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
-    <img title="C++ Language" src="https://github.com/Team-Bro-buggers-C211010/Team-Bro-buggers-C211010/blob/main/icon-images/cpp.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="HTML5" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/HTML.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="CSS3" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/css.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="JavaScript" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/JavaScript.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="React.js" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/react.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="Tailwind CSS" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/tailwind.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="Redux Toolkit" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/redux.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="Node.js" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/node.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="Express.js" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/express.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="MongoDB" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/mongo.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="Firebase" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/firebase.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="C Language" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/c.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
+    <img title="C++ Language" src="https://github.com/shovan-bhattacharjee/shovan-bhattacharjee/blob/main/icon-images/cpp.png?raw=true" height="50" style="border-radius: 10px; background-color: #ffffff11; box-shadow: 0 4px 12px rgba(0,0,0,0.2);" />
   </div>
 </div>
 
@@ -58,9 +58,9 @@ Currently, I’m enhancing my skills with **Next.js** for server-side rendering 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Team-Bro-buggers-C211010&theme=radical" width="400" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Team-Bro-buggers-C211010&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Team-Bro-buggers-C211010&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shovan-bhattacharjee&theme=radical" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shovan-bhattacharjee&show_icons=true&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shovan-bhattacharjee&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 ---
@@ -68,7 +68,7 @@ Currently, I’m enhancing my skills with **Next.js** for server-side rendering 
 ## 📊 Most Used Languages
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Team-Bro-buggers-C211010&layout=compact&theme=tokyonight&hide_border=true" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shovan-bhattacharjee&layout=compact&theme=tokyonight&hide_border=true" width="400" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ Currently, I’m enhancing my skills with **Next.js** for server-side rendering 
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/Team-Bro-buggers-C211010" target="_blank">
+  <a href="https://github.com/shovan-bhattacharjee" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/ffffff/github.png" alt="GitHub" width="30" height="30"/>
   </a>&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/shovan-bhattacharjee" target="_blank">
